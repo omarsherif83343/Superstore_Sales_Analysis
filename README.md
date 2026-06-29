@@ -131,7 +131,7 @@ Superstore-Sales-Analysis
 
 ### Dashboard Preview
 
-![Sales & Customer Insights](Dashboard%20Screenshots/Superstore_Sales_And_Customer_Insights.png)
+![Sales & Customer Insights](Dashboard%20Screenshots/Superstore_Sales_And_Customer_Insights_Dashboard.png)
 
 ---
 
