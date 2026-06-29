@@ -169,7 +169,7 @@ The project includes several Exploratory Data Analysis (EDA) visualizations crea
 
 ### Monthly Profit Trend
 
-![Monthly Profit Trend](Python%20Charts/monthly_profit_trend.png)
+![Monthly Profit Trend](Python%20Charts/profit_trend.png)
 
 ---
 
